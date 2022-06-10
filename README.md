@@ -15,7 +15,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 Donate
 
-
-If the project is helpful to you, but you can reward me if you want.  you can do that using QR codest. thanks!
+Donating to this project is OPTIONAL.
+However, if you would like to buy me a coffee, you can do that using QR codes (WechatPay or Alipay).
 
 ![2EB2F517-62EA-4565-8B27-03E7594EAE0F](https://user-images.githubusercontent.com/107168177/173000131-5eca2d4e-7d69-4415-b402-8941b934df2a.png)
